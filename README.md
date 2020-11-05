@@ -1,12 +1,6 @@
-# Parcel + Typescript starter
+# ASCII Renderer
 
-Small starter repo for simple typescript web apps
-
-Additionally:
-- eslint
-- prettier
-- vscode settings
-- gh-pages
+TODO: Add some info
 
 ---
 This repository was bootstrapped with:

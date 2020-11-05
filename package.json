@@ -1,8 +1,8 @@
 {
-  "name": "parcel-typescript",
+  "name": "ascii-renderer",
   "version": "1.0.0",
   "author": "Michal Wrzosek <michal@wrzosek.pl>",
-  "homepage": "https://michal.wrzosek.github.io/parcel-typescript",
+  "homepage": "https://michal.wrzosek.github.io/ascii-renderer",
   "license": "MIT",
   "main": "index.html",
   "engines": {
